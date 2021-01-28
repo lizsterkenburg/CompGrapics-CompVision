@@ -1,2 +1,2 @@
 # CompGrapics-CompVision
-Git for the course Computer graphics and computer vision
+Git for the course "Computer Graphics and Computer Vision".
