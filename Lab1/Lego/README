@@ -1,0 +1,11 @@
+We moved an island closer and added a skull rock on top of this. We moved one of the collectable items into the mouth of the skull.
+We added a lose button on top of some rocks. It’s activated on touch.
+To warn the player for the lose button, the button is surrounded by green bubbles
+An extra enemy is added. This is a giraffe which shoots very fast but very inaccurately.
+To warn players of the evil giraffe, a hazard sound is added near the giraffe which is activated when the player is close. 
+Changed crystal pickup sound to “explode” for some crystals.
+We added some floating birds.
+To win you need to also pick up 2 pieces of fruit
+Near the end, there is a hippo with a collectable crystal for you to pick up. 
+There is now an extra route to another win block which you need to touch. It is on a new island where a mountain and some trees and flowers have been added. 
+https://play.unity.com/mg/lego/webgl-builds-16510
